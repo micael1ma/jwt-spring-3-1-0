@@ -1,4 +1,4 @@
-package com.devsuperior.demo.congif;
+package com.devsuperior.demo.config;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.devsuperior.demo.congif;
+package com.devsuperior.demo.config;
 
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;
